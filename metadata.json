@@ -1,0 +1,7 @@
+{
+  "name": "Test Me",
+  "description": "An AI-powered app that instantly converts lesson photos into interactive quizzes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
